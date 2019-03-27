@@ -1,7 +1,7 @@
 This solution is a simple web application that allows users to have a 
 set of shipments associated with their customer account.
 
-Test
+Test Changes inclass
 
 Item 1: Create a branch off the remo call it A########_TechTest
 - make sure to push your code to this branch
